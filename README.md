@@ -1,7 +1,5 @@
-# dream-job_Chart
-
 <h1>Who do I want to be?</h1>
-<p>It's simple, Everything Everywhere All at Once!</p>
+<h2>It's simple, Everything Everywhere All at Once!</h2>
 <img src="/public/piratessa.jpg" alt="пиратка">
 <img src="/public/rock.png" alt="гитаристка">
 <img src="/public/wwe.jpg" alt="чемпионка">
